@@ -14,6 +14,7 @@
 ## Сущности (wiki/entities/)
 - [oxtech-platform](wiki/entities/oxtech-platform.md) — мультиагентная платформа Oxtech: архитектура, единая кодовая база агентов, системы агентов, принципы, go-to-market.
 - [agents-roster](wiki/entities/agents-roster.md) — фактический состав агентов: 17 шаблонов, 13 в Production, 11 отвечают.
+- [oxtech-portal](wiki/entities/oxtech-portal.md) — центральный компонент: конструктор агентов, MCP-сервер, реестр, админка, веб-чат, слой данных.
 - [oxtech-manager](wiki/entities/oxtech-manager.md) — жизненный цикл агентов: сборка, деплой, метрики, health-check, изоляция.
 - [keylink](wiki/entities/keylink.md) — второй прикладной продукт на платформе: закупки электронных компонентов.
 - [oxdocs](wiki/entities/oxdocs.md) — AI-редактор документов на платформе (LaTeX по ГОСТ → PDF).
@@ -29,6 +30,8 @@
 - [orchestration](wiki/concepts/orchestration.md) — оркестрация агентов: от Assistant::Orchestrator в gem до Orchestrator+A2A в платформе.
 - [proactive-messenger-mode](wiki/concepts/proactive-messenger-mode.md) — проактивный режим агента в мессенджере: наблюдение за каналом, суточный дайджест, тумблер автономии (на примере Mattermost).
 - [document-pipeline](wiki/concepts/document-pipeline.md) — конвейер подготовки документов: 4 суб-агента внутри Writer, параллельное написание глав, эффект декомпозиции на слабых моделях.
+- [observability](wiki/concepts/observability.md) — наблюдаемость: траектории запросов, иерархическая трассировка, 31 метрика, PII-маскирование, аудит.
+- [hitl](wiki/concepts/hitl.md) — human-in-the-loop: подтверждение значимых действий и вопрос эксперту.
 - [prompt-template-language](wiki/concepts/prompt-template-language.md) — язык шаблонов промптов (JSON-DSL): переменные, переиспользуемые правила, композиция ролей (идея Д. Смолева).
 - [inner-monologue-fsm](wiki/concepts/inner-monologue-fsm.md) — внутренний монолог + конечный автомат: паттерн управления агентом из ox-ai-workers.
 - [intellectual-property](wiki/concepts/intellectual-property.md) — реестр активов ИС Oxtech: что оформлено, что нет, меры поддержки.

@@ -135,4 +135,4 @@ ADK-колбэка `RateLimitGuard` перед вызовом LLM.
 
 Предшественник идеи — провайдеро-независимость в [[ox-ai-workers]] (смена LLM через `uri_base`).
 
-См. также [[claims-vs-code]], [[observability]].
+См. также [[observability]].
