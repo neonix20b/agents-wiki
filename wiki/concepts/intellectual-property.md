@@ -2,28 +2,23 @@
 type: concept
 created: 2026-07-20
 updated: 2026-07-20
-sources: [raw/2026-07-20_oxtech-agents-registration-certificate.pdf, raw/2026-07-20_oxengine-software-registration-certificate.pdf, raw/2026-07-20_imoscow-oxteh-company-page.md]
+sources: [raw/2026-07-20_oxtech-agents-registration-certificate.pdf, raw/2026-07-20_imoscow-oxteh-company-page.md]
 tags: [ip, legal]
 ---
 # Интеллектуальная собственность Oxtech
 
-Реестр активов ИС компании [[oxtech-company]] и связанных лиц.
+Реестр активов ИС компании [[oxtech-company]].
 
 ## Оформленные активы
 
 | Актив | Тип | Правообладатель | Реквизиты |
 |---|---|---|---|
 | **Oxtech Agents** | Свидетельство о госрегистрации программы для ЭВМ | **ООО «ОКСТЕХ»** | **RU 2026613582**, рег. 06.02.2026 — [[oxtech-agents-registration-certificate]] |
-| oxEngine v1.0 | Свидетельство о госрегистрации программы для ЭВМ | Смолев Д. С. (физлицо) | RU 2014613157, рег. 19.03.2014 — [[oxengine-registration-certificate]] |
 | ox-ai-workers | Open-source (MIT), Ruby gem | — | [[ox-ai-workers]] |
 
 Ключевой актив для сделок — **RU 2026613582 «Oxtech Agents»**: предмет регистрации совпадает
 с продаваемым продуктом ([[oxtech-platform]]), правообладатель совпадает с юрлицом-исполнителем.
 Авторы — Повалихин А. И. и Смолев Д. С.
-
-Свидетельство oxEngine 2014 года относится к другой программе и оформлено на физлицо —
-как аргумент о правах на платформу его использовать нельзя, но оно подтверждает историю
-разработки основателя.
 
 ## Два разных реестра — не путать
 

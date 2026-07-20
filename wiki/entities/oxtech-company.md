@@ -2,7 +2,7 @@
 type: entity
 created: 2026-07-20
 updated: 2026-07-20
-sources: [raw/2026-07-20_imoscow-oxteh-company-page.md, raw/2026-07-20_oxengine-software-registration-certificate.pdf]
+sources: [raw/2026-07-20_imoscow-oxteh-company-page.md, raw/2026-07-20_oxtech-agents-registration-certificate.pdf]
 tags: [company, legal]
 ---
 # ООО «ОКСТЕХ» (Oxtech)
@@ -19,9 +19,7 @@ tags: [company, legal]
 - **Правообладатель ПО «Oxtech Agents»** — свидетельство о госрегистрации RU 2026613582 от
   06.02.2026, авторы Повалихин А. И. и Смолев Д. С. — [[oxtech-agents-registration-certificate]].
   Права на платформу принадлежат самому юрлицу.
-- Ранний актив основателя: [[oxengine-registration-certificate]] (RU 2014613157, правообладатель —
-  Смолев Д. С. как физлицо, другая программа).
 - Полный реестр ИС и статус по реестрам — [[intellectual-property]].
 - Open-source: библиотека [[ox-ai-workers]] (github.com/neonix20b).
 
-Источники: [[oxengine-registration-certificate]], снапшот i.moscow (raw/2026-07-20_imoscow-oxteh-company-page.md).
+Источники: [[oxtech-agents-registration-certificate]], снапшот i.moscow (raw/2026-07-20_imoscow-oxteh-company-page.md).
