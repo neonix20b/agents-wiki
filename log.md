@@ -22,3 +22,6 @@ Append-only. Формат: `## [YYYY-MM-DD] ingest|query|deliverable|lint | На
 
 ## [2026-07-20] ingest | Исследование A2A vs MCP
 Исходник: raw/2026-07-20_a2a-vs-mcp-web-research.md (Auth0, Merge.dev, TrueFoundry, Atlan). Создано: sources/a2a-vs-mcp-web-research, synthesis/a2a-vs-mcp (ограничения MCP-only, аргументы A2A+MCP). Обновлено: concepts/a2a, concepts/mcp, synthesis/gigacowork-vs-oxtech (строка «Протоколы»), index.md.
+
+## [2026-07-20] ingest | LLM-платформы в России (веб-исследование)
+Исходник: raw/2026-07-20_russian-llm-platforms-web-research.md (MWS, vc.ru, azoneai, just-ai, ict.moscow и др.). Создано: sources/russian-llm-platforms-web-research, synthesis/russian-llm-landscape (таблица игроков, роли: провайдер/конкурент/заказчик, выводы). Обновлено: entities/oxmodel (ссылка на ландшафт), index.md.

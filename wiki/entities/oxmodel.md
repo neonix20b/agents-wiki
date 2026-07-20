@@ -15,4 +15,6 @@ LLM-шлюз [[oxtech-platform]]: агенты не привязаны к кон
 
 Предшественник идеи — провайдеро-независимость в [[ox-ai-workers]] (смена LLM через `uri_base`: OpenAI, DeepSeek и любые API-совместимые).
 
+Ландшафт доступных в РФ моделей и платформ, кандидаты на подключение (MWS GPT, Cotype, T-Pro) и ближайший функциональный аналог (MWS GPT) — [[russian-llm-landscape]].
+
 Источник: [[oxtech-multiagent-platform-presentation]].
