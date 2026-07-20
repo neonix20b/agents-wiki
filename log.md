@@ -33,3 +33,6 @@ Append-only. Формат: `## [YYYY-MM-DD] ingest|query|deliverable|lint | На
 
 ## [2026-07-20] lint | Удаление oxEngine (RU 2014613157) из вики
 Свидетельство oxEngine 2014 г. добавлено по ошибке — относится к другой программе и не имеет отношения к платформе. Удалены: raw/2026-07-20_oxengine-software-registration-certificate.pdf, wiki/sources/oxengine-registration-certificate. Очищены ссылки в concepts/intellectual-property, entities/oxtech-company, sources/oxtech-agents-registration-certificate, index.md. Актуальный документ по правам на платформу — RU 2026613582 «Oxtech Agents».
+
+## [2026-07-20] lint | Синхронизация после pull: разрешение противоречия по провайдерам
+После pull (4 коммита: свидетельство Oxtech Agents, удаление oxEngine, сверка с кодовой базой, AGENTS.md) в synthesis/russian-llm-landscape исправлены роли GigaChat/YandexGPT: «поддержан» → «кандидат, по коду не подключён» (по данным аудита в entities/oxmodel). Выявлены битые wikilinks на несозданные страницы: claims-vs-code, observability, hitl, oxtech-portal, oxtech-codebase-audit.
