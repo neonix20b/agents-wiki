@@ -9,6 +9,7 @@
 - [gigacowork-web-research](wiki/sources/gigacowork-web-research.md) — сводка публикаций о запуске GigaCowork: Habr, vc.ru, CNews и др. (ингест 2026-07-20).
 - [a2a-vs-mcp-web-research](wiki/sources/a2a-vs-mcp-web-research.md) — сводка публикаций о протоколах A2A и MCP: Auth0, Merge.dev и др. (ингест 2026-07-20).
 - [russian-llm-platforms-web-research](wiki/sources/russian-llm-platforms-web-research.md) — сводка материалов о LLM-ландшафте РФ: MWS, обзоры рынка, ДИТ Москвы (ингест 2026-07-20).
+- [a2a-protocol-official-docs](wiki/sources/a2a-protocol-official-docs.md) — официальные материалы протокола A2A: Linux Foundation, спецификация v1.0.1, принципы, обнаружение агентов (ингест 2026-07-20).
 
 ## Сущности (wiki/entities/)
 - [oxtech-platform](wiki/entities/oxtech-platform.md) — мультиагентная платформа Oxtech: архитектура, единая кодовая база агентов, системы агентов, принципы, go-to-market.
@@ -26,6 +27,7 @@
 - [a2a](wiki/concepts/a2a.md) — протокол взаимодействия агент–агент.
 - [mcp](wiki/concepts/mcp.md) — протокол доступа агентов к инструментам и данным.
 - [orchestration](wiki/concepts/orchestration.md) — оркестрация агентов: от Assistant::Orchestrator в gem до Orchestrator+A2A в платформе.
+- [proactive-messenger-mode](wiki/concepts/proactive-messenger-mode.md) — проактивный режим агента в мессенджере: наблюдение за каналом, суточный дайджест, тумблер автономии (на примере Mattermost).
 - [inner-monologue-fsm](wiki/concepts/inner-monologue-fsm.md) — внутренний монолог + конечный автомат: паттерн управления агентом из ox-ai-workers.
 - [intellectual-property](wiki/concepts/intellectual-property.md) — реестр активов ИС Oxtech: что оформлено, что нет, меры поддержки.
 
