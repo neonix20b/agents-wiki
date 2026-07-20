@@ -6,6 +6,7 @@
 - [oxtech-multiagent-platform-presentation](wiki/sources/oxtech-multiagent-platform-presentation.md) — конспект презентации платформы Oxtech, 12 слайдов (ингест 2026-07-20).
 - [ox-ai-workers-readme](wiki/sources/ox-ai-workers-readme.md) — конспект README библиотеки ox-ai-workers + таблица преемственности идей (ингест 2026-07-20).
 - [oxengine-registration-certificate](wiki/sources/oxengine-registration-certificate.md) — свидетельство о гос. регистрации ПО oxEngine v1.0, RU 2014613157 (ингест 2026-07-20).
+- [gigacowork-web-research](wiki/sources/gigacowork-web-research.md) — сводка публикаций о запуске GigaCowork: Habr, vc.ru, CNews и др. (ингест 2026-07-20).
 
 ## Сущности (wiki/entities/)
 - [oxtech-platform](wiki/entities/oxtech-platform.md) — мультиагентная платформа Oxtech: 12 агентов, архитектура, принципы, go-to-market.
@@ -14,6 +15,7 @@
 - [ox-ai-workers](wiki/entities/ox-ai-workers.md) — открытая Ruby-библиотека агентного фреймворка, предшественница платформы.
 - [oxtech-company](wiki/entities/oxtech-company.md) — ООО «ОКСТЕХ»: реквизиты, статусы, активы ИС.
 - [moscow-innovation-cluster](wiki/entities/moscow-innovation-cluster.md) — МИК (i.moscow): участие Oxtech и релевантные меры поддержки.
+- [gigacowork](wiki/entities/gigacowork.md) — конкурент: платформа ИИ-агентов Сбера («Салют для бизнеса»), тестовый доступ с 19.05.2026.
 
 ## Концепции (wiki/concepts/)
 - [a2a](wiki/concepts/a2a.md) — протокол взаимодействия агент–агент.
@@ -23,7 +25,7 @@
 - [intellectual-property](wiki/concepts/intellectual-property.md) — реестр активов ИС Oxtech: что оформлено, что нет, меры поддержки.
 
 ## Синтез (wiki/synthesis/)
-_(пока пусто)_
+- [gigacowork-vs-oxtech](wiki/synthesis/gigacowork-vs-oxtech.md) — сравнение с GigaCowork: сходства, различия по 10 осям, выводы для позиционирования.
 
 ## Deliverables
 _(пока пусто — договоры, планы, отчёты, презентации будут в deliverables/)_

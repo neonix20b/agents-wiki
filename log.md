@@ -13,3 +13,6 @@ Append-only. Формат: `## [YYYY-MM-DD] ingest|query|deliverable|lint | На
 
 ## [2026-07-20] ingest | Свидетельство oxEngine + профиль ООО «ОКСТЕХ» в МИК
 Исходники: raw/2026-07-20_oxengine-software-registration-certificate.pdf (RU 2014613157), raw/2026-07-20_imoscow-oxteh-company-page.md (i.moscow/company/54892725). Создано: sources/oxengine-registration-certificate, entities/oxtech-company, entities/moscow-innovation-cluster, concepts/intellectual-property. Обновлено: entities/oxtech-platform (ссылка на компанию), index.md.
+
+## [2026-07-20] ingest | Конкурент GigaCowork (веб-исследование)
+Исходник: raw/2026-07-20_gigacowork-web-research.md (Habr, vc.ru, CNews, Kommersant, TAdviser). Создано: sources/gigacowork-web-research, entities/gigacowork, synthesis/gigacowork-vs-oxtech (сравнение + выводы для позиционирования). Обновлён index.md.
