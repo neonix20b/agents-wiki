@@ -7,6 +7,7 @@
 - [ox-ai-workers-readme](wiki/sources/ox-ai-workers-readme.md) — конспект README библиотеки ox-ai-workers + таблица преемственности идей (ингест 2026-07-20).
 - [oxengine-registration-certificate](wiki/sources/oxengine-registration-certificate.md) — свидетельство о гос. регистрации ПО oxEngine v1.0, RU 2014613157 (ингест 2026-07-20).
 - [gigacowork-web-research](wiki/sources/gigacowork-web-research.md) — сводка публикаций о запуске GigaCowork: Habr, vc.ru, CNews и др. (ингест 2026-07-20).
+- [a2a-vs-mcp-web-research](wiki/sources/a2a-vs-mcp-web-research.md) — сводка публикаций о протоколах A2A и MCP: Auth0, Merge.dev и др. (ингест 2026-07-20).
 
 ## Сущности (wiki/entities/)
 - [oxtech-platform](wiki/entities/oxtech-platform.md) — мультиагентная платформа Oxtech: 12 агентов, архитектура, принципы, go-to-market.
@@ -26,6 +27,7 @@
 
 ## Синтез (wiki/synthesis/)
 - [gigacowork-vs-oxtech](wiki/synthesis/gigacowork-vs-oxtech.md) — сравнение с GigaCowork: сходства, различия по 10 осям, выводы для позиционирования.
+- [a2a-vs-mcp](wiki/synthesis/a2a-vs-mcp.md) — разница протоколов, 6 ограничений MCP-only межагентных архитектур, аргументация A2A+MCP для Oxtech.
 
 ## Deliverables
 _(пока пусто — договоры, планы, отчёты, презентации будут в deliverables/)_
