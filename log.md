@@ -16,3 +16,6 @@ Append-only. Формат: `## [YYYY-MM-DD] ingest|query|deliverable|lint | На
 
 ## [2026-07-20] ingest | Конкурент GigaCowork (веб-исследование)
 Исходник: raw/2026-07-20_gigacowork-web-research.md (Habr, vc.ru, CNews, Kommersant, TAdviser). Создано: sources/gigacowork-web-research, entities/gigacowork, synthesis/gigacowork-vs-oxtech (сравнение + выводы для позиционирования). Обновлён index.md.
+
+## [2026-07-20] query | Тезис позиционирования: self-service vs профессиональное внедрение
+В synthesis/gigacowork-vs-oxtech добавлен ключевой тезис (Д. Смолев): GigaCowork — ставка на простых пользователей, Oxtech — на команду внедрения и гибкую адаптацию под заказчика; с оговоркой про сегментацию.
