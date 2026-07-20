@@ -25,3 +25,11 @@ Append-only. Формат: `## [YYYY-MM-DD] ingest|query|deliverable|lint | На
 
 ## [2026-07-20] ingest | LLM-платформы в России (веб-исследование)
 Исходник: raw/2026-07-20_russian-llm-platforms-web-research.md (MWS, vc.ru, azoneai, just-ai, ict.moscow и др.). Создано: sources/russian-llm-platforms-web-research, synthesis/russian-llm-landscape (таблица игроков, роли: провайдер/конкурент/заказчик, выводы). Обновлено: entities/oxmodel (ссылка на ландшафт), index.md.
+## [2026-07-20] ingest | Свидетельство о госрегистрации ПО «Oxtech Agents» (RU 2026613582)
+Исходник: raw/2026-07-20_oxtech-agents-registration-certificate.pdf. Ключевое: правообладатель — ООО «ОКСТЕХ» (юрлицо, не физлицо), предмет регистрации — сама платформа, дата регистрации 06.02.2026, авторы Повалихин А. И. и Смолев Д. С. Создано: sources/oxtech-agents-registration-certificate. Обновлено: concepts/intellectual-property (разделение реестров Роспатент / Минцифры), entities/oxtech-company, index.md. Закрывает пробел «правообладатель ИС — физлицо», отмеченный при проверке полноты.
+
+## [2026-07-20] ingest | Сверка вики с кодовой базой
+Источник: код репозиториев portal@359f142, agent@10ba1be, manager@2ecb1d5, documents@6fe60a7 + живой agent_list. Создано: entities/agents-roster, entities/oxtech-manager, entities/keylink. Обновлено: entities/oxtech-platform, entities/oxmodel, concepts/mcp, concepts/a2a, concepts/orchestration, index.md. Уточнены цифры: 67 MCP-инструментов Portal (не 49/50), 17 шаблонов агентов / 13 в Production / 11 отвечают, a2a-go v2.3.1 + ADK v1.4.0.
+
+## [2026-07-20] lint | Удаление oxEngine (RU 2014613157) из вики
+Свидетельство oxEngine 2014 г. добавлено по ошибке — относится к другой программе и не имеет отношения к платформе. Удалены: raw/2026-07-20_oxengine-software-registration-certificate.pdf, wiki/sources/oxengine-registration-certificate. Очищены ссылки в concepts/intellectual-property, entities/oxtech-company, sources/oxtech-agents-registration-certificate, index.md. Актуальный документ по правам на платформу — RU 2026613582 «Oxtech Agents».

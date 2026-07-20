@@ -5,13 +5,16 @@
 ## Источники (wiki/sources/)
 - [oxtech-multiagent-platform-presentation](wiki/sources/oxtech-multiagent-platform-presentation.md) — конспект презентации платформы Oxtech, 12 слайдов (ингест 2026-07-20).
 - [ox-ai-workers-readme](wiki/sources/ox-ai-workers-readme.md) — конспект README библиотеки ox-ai-workers + таблица преемственности идей (ингест 2026-07-20).
-- [oxengine-registration-certificate](wiki/sources/oxengine-registration-certificate.md) — свидетельство о гос. регистрации ПО oxEngine v1.0, RU 2014613157 (ингест 2026-07-20).
+- [oxtech-agents-registration-certificate](wiki/sources/oxtech-agents-registration-certificate.md) — свидетельство о гос. регистрации ПО «Oxtech Agents», RU 2026613582, правообладатель ООО «ОКСТЕХ» (ингест 2026-07-20).
 - [gigacowork-web-research](wiki/sources/gigacowork-web-research.md) — сводка публикаций о запуске GigaCowork: Habr, vc.ru, CNews и др. (ингест 2026-07-20).
 - [a2a-vs-mcp-web-research](wiki/sources/a2a-vs-mcp-web-research.md) — сводка публикаций о протоколах A2A и MCP: Auth0, Merge.dev и др. (ингест 2026-07-20).
 - [russian-llm-platforms-web-research](wiki/sources/russian-llm-platforms-web-research.md) — сводка материалов о LLM-ландшафте РФ: MWS, обзоры рынка, ДИТ Москвы (ингест 2026-07-20).
 
 ## Сущности (wiki/entities/)
-- [oxtech-platform](wiki/entities/oxtech-platform.md) — мультиагентная платформа Oxtech: 12 агентов, архитектура, принципы, go-to-market.
+- [oxtech-platform](wiki/entities/oxtech-platform.md) — мультиагентная платформа Oxtech: архитектура, единая кодовая база агентов, системы агентов, принципы, go-to-market.
+- [agents-roster](wiki/entities/agents-roster.md) — фактический состав агентов: 17 шаблонов, 13 в Production, 11 отвечают.
+- [oxtech-manager](wiki/entities/oxtech-manager.md) — жизненный цикл агентов: сборка, деплой, метрики, health-check, изоляция.
+- [keylink](wiki/entities/keylink.md) — второй прикладной продукт на платформе: закупки электронных компонентов.
 - [oxdocs](wiki/entities/oxdocs.md) — AI-редактор документов на платформе (LaTeX по ГОСТ → PDF).
 - [oxmodel](wiki/entities/oxmodel.md) — LLM-шлюз: любой провайдер, on-premise, учёт токенов.
 - [ox-ai-workers](wiki/entities/ox-ai-workers.md) — открытая Ruby-библиотека агентного фреймворка, предшественница платформы.
