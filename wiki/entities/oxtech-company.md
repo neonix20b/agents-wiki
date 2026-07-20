@@ -16,7 +16,12 @@ tags: [company, legal]
 
 ## Статусы и активы
 - **Участник [[moscow-innovation-cluster]]** — профиль: https://i.moscow/company/54892725.
-- Интеллектуальная собственность — см. [[intellectual-property]]; в т.ч. свидетельство о регистрации ПО [[oxengine-registration-certificate]] (правообладатель — Смолев Д. С., основатель).
+- **Правообладатель ПО «Oxtech Agents»** — свидетельство о госрегистрации RU 2026613582 от
+  06.02.2026, авторы Повалихин А. И. и Смолев Д. С. — [[oxtech-agents-registration-certificate]].
+  Права на платформу принадлежат самому юрлицу.
+- Ранний актив основателя: [[oxengine-registration-certificate]] (RU 2014613157, правообладатель —
+  Смолев Д. С. как физлицо, другая программа).
+- Полный реестр ИС и статус по реестрам — [[intellectual-property]].
 - Open-source: библиотека [[ox-ai-workers]] (github.com/neonix20b).
 
 Источники: [[oxengine-registration-certificate]], снапшот i.moscow (raw/2026-07-20_imoscow-oxteh-company-page.md).
