@@ -3,3 +3,7 @@
 
 # Черновики deliverables — не версионируем
 deliverables/drafts/
+
+# Временные файлы MS Office
+~$*
+**/~$*
