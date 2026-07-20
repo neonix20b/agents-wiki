@@ -71,3 +71,6 @@ Append-only. Формат: `## [YYYY-MM-DD] ingest|query|deliverable|lint | На
 
 ## [2026-07-20] lint | Уточнение per-agent модели в document-pipeline
 Поправлена неточная оговорка: «разные модели достижимы только разными деплоями» неверно — ADK-go поддерживает свою модель на каждого суб-агента из коробки. В текущей сборке передаётся один экземпляр модели во все фабрики; развести по этапам — конфигурационная доработка бутстрапа, не переписывание. Reviewer как отдельный A2A-агент уже на своей модели. Добавлен раздел «Модель на суб-агента».
+
+## [2026-07-20] lint | Проверка здоровья вики
+Граф ссылок (29 страниц). Исправлено: снята устаревшая пометка «⚠️ Противоречие» в entities/oxmodel (russian-llm-landscape уже приведён в соответствие с кодом, расхождения нет) + убран дубль строки про OpenAI; нестандартный wikilink на raw-файл в sources/a2a-protocol-official-docs заменён на обычную ссылку; устранено сиротство двух страниц — proactive-messenger-mode и document-pipeline получили входящую из entities/agents-roster, prompt-template-language — из synthesis/dit-agent-factory-concept. Осталось: 5 битых ссылок на несозданные страницы (observability, claims-vs-code, hitl, oxtech-portal, oxtech-codebase-audit) — вынесено на решение.

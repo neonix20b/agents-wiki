@@ -85,4 +85,8 @@ skills — MCP-инструмент `agent_capabilities`.
 тегов каждый агент получает: A2A-сервер, `/health` и `/metrics`, аутентификацию, rate limit
 120 req/min, HMAC-подпись, OpenTelemetry, инструменты `fetch_url`, `search_arxiv` и Wolfram.
 
+Communicator ведёт каналы Telegram/Mattermost и реализует [[proactive-messenger-mode]]
+(наблюдение за каналом + суточный дайджест). Writer собирает документы через
+[[document-pipeline]].
+
 См. [[oxtech-platform]], [[a2a]], [[orchestration]].

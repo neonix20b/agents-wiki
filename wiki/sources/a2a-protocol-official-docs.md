@@ -8,7 +8,7 @@ tags: [protocol, a2a, standards]
 # Официальные материалы протокола A2A
 
 Конспект снапшота github.com/a2aproject/A2A и a2a-protocol.org на 2026-07-20.
-Полный текст — [[raw/2026-07-20_a2a-protocol-official-docs.md]].
+Полный текст — [raw/2026-07-20_a2a-protocol-official-docs.md](../../raw/2026-07-20_a2a-protocol-official-docs.md).
 
 ## Что зафиксировано
 
