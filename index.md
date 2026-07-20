@@ -38,5 +38,6 @@
 - [dit-agent-factory-concept](wiki/synthesis/dit-agent-factory-concept.md) — концепция для ДИТ Москвы: городская фабрика агентов, комнаты-рынки навыков, зрелость, open core на Mos.Hub.
 
 ## Deliverables
+- [2026-07-20_dit-moscow-agent-factory-concept_v1.docx](deliverables/plans/2026-07-20_dit-moscow-agent-factory-concept_v1.docx) — концепт-записка для ДИТ (Word, 6 стр.): функциональные возможности, сценарии, выгоды, сравнение с GigaCowork.
 - [2026-07-20_dit-moscow-agent-factory_v2.pptx](deliverables/presentations/2026-07-20_dit-moscow-agent-factory_v2.pptx) — **актуальная версия**: самодостаточный раздаточный материал, 15 слайдов, полные предложения, стиль по эталону (кикер / заголовок-тезис / вывод-плашка).
 - [2026-07-20_dit-moscow-agent-factory_v1.pptx](deliverables/presentations/2026-07-20_dit-moscow-agent-factory_v1.pptx) — первая версия (тезисный стиль под проектор); заменена v2.
