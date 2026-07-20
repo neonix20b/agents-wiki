@@ -1,2 +1,5 @@
 .DS_Store
 .obsidian/workspace*
+
+# Черновики deliverables — не версионируем
+deliverables/drafts/
