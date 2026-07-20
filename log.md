@@ -36,3 +36,6 @@ Append-only. Формат: `## [YYYY-MM-DD] ingest|query|deliverable|lint | На
 
 ## [2026-07-20] lint | Синхронизация после pull: разрешение противоречия по провайдерам
 После pull (4 коммита: свидетельство Oxtech Agents, удаление oxEngine, сверка с кодовой базой, AGENTS.md) в synthesis/russian-llm-landscape исправлены роли GigaChat/YandexGPT: «поддержан» → «кандидат, по коду не подключён» (по данным аудита в entities/oxmodel). Выявлены битые wikilinks на несозданные страницы: claims-vs-code, observability, hitl, oxtech-portal, oxtech-codebase-audit.
+
+## [2026-07-20] query | Концепция фабрики агентов для ДИТ Москвы
+По итогам двух раундов вопросов к Д. Смолеву создана synthesis/dit-agent-factory-concept: конструктор+фабрика агентов, комнаты как рынки навыков, показатель зрелости с агентом-аттестатором, open core на Mos.Hub, Oxtech — техпартнёр ядра, пилот — контрольные соотношения документов, прямое сравнение с GigaCowork. Контекст: встреча с ДИТ назначена, мотив — избежать вендор-лока Сбера. Обновлён index.md.

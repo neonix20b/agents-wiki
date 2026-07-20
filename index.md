@@ -33,6 +33,7 @@
 - [gigacowork-vs-oxtech](wiki/synthesis/gigacowork-vs-oxtech.md) — сравнение с GigaCowork: сходства, различия по 10 осям, выводы для позиционирования.
 - [a2a-vs-mcp](wiki/synthesis/a2a-vs-mcp.md) — разница протоколов, 6 ограничений MCP-only межагентных архитектур, аргументация A2A+MCP для Oxtech.
 - [russian-llm-landscape](wiki/synthesis/russian-llm-landscape.md) — LLM-платформы в РФ 2026: провайдеры для Oxmodel, конкуренты, образ заказчика (ДИТ).
+- [dit-agent-factory-concept](wiki/synthesis/dit-agent-factory-concept.md) — концепция для ДИТ Москвы: городская фабрика агентов, комнаты-рынки навыков, зрелость, open core на Mos.Hub.
 
 ## Deliverables
 _(пока пусто — договоры, планы, отчёты, презентации будут в deliverables/)_
