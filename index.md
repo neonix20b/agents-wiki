@@ -29,6 +29,7 @@
 - [orchestration](wiki/concepts/orchestration.md) — оркестрация агентов: от Assistant::Orchestrator в gem до Orchestrator+A2A в платформе.
 - [proactive-messenger-mode](wiki/concepts/proactive-messenger-mode.md) — проактивный режим агента в мессенджере: наблюдение за каналом, суточный дайджест, тумблер автономии (на примере Mattermost).
 - [document-pipeline](wiki/concepts/document-pipeline.md) — конвейер подготовки документов: 4 суб-агента внутри Writer, параллельное написание глав, эффект декомпозиции на слабых моделях.
+- [prompt-template-language](wiki/concepts/prompt-template-language.md) — язык шаблонов промптов (JSON-DSL): переменные, переиспользуемые правила, композиция ролей (идея Д. Смолева).
 - [inner-monologue-fsm](wiki/concepts/inner-monologue-fsm.md) — внутренний монолог + конечный автомат: паттерн управления агентом из ox-ai-workers.
 - [intellectual-property](wiki/concepts/intellectual-property.md) — реестр активов ИС Oxtech: что оформлено, что нет, меры поддержки.
 
