@@ -10,3 +10,6 @@ Append-only. Формат: `## [YYYY-MM-DD] ingest|query|deliverable|lint | На
 
 ## [2026-07-20] ingest | README ox-ai-workers (GitHub)
 Исходник: raw/2026-07-20_ox-ai-workers-readme.md (снапшот README github.com/neonix20b/ox-ai-workers). Создано: sources/ox-ai-workers-readme, entities/ox-ai-workers, concepts/orchestration, concepts/inner-monologue-fsm. Обновлено: entities/oxtech-platform (раздел «История»), entities/oxmodel (предшественник идеи), index.md.
+
+## [2026-07-20] ingest | Свидетельство oxEngine + профиль ООО «ОКСТЕХ» в МИК
+Исходники: raw/2026-07-20_oxengine-software-registration-certificate.pdf (RU 2014613157), raw/2026-07-20_imoscow-oxteh-company-page.md (i.moscow/company/54892725). Создано: sources/oxengine-registration-certificate, entities/oxtech-company, entities/moscow-innovation-cluster, concepts/intellectual-property. Обновлено: entities/oxtech-platform (ссылка на компанию), index.md.
